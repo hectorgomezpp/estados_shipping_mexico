@@ -1,0 +1,8 @@
+.mkrapel-mx-field-radio label.radio{
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.mkrapel-mx-optional .required{
+	display: none;
+}
