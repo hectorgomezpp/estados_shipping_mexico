@@ -7,7 +7,7 @@
  * @subpackage wc-ciudades-y-regiones-de-mexico/classes
  */
  
-class MkRapel_Estado_Ciudad_MX {
+class MkRapel_Region_Ciudad_MX {
 	const VERSION = '1.1.29';
 	private static $places;
 
